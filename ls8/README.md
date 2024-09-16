@@ -60,8 +60,21 @@ but you'll have to implement those three above instructions first!
 ## Step 0: IMPORTANT: inventory what is here!
 
 * Make a list of files here.
+    * cpu.py
+    * ls8.py
+
+
 * Write a short 3-10-word description of what each file does.
+    * cpu.py is a class with an ALU that does addition and a trace function for debugging
+    * ls8.py loads the cpu.py class and runs it
+
+
 * Note what has been implemented, and what hasn't.
+    * ALU w/addition
+    * Trace fn for debugging
+    * mem with some instructions
+
+    
 * Read this whole file.
 * Skim the spec.
 
